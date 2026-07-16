@@ -12,3 +12,5 @@ This project provides an automated data management solution for processing high-
 *   **Automation:** n8n
 *   **Database:** Airtable
 *   **Focus:** Agent-based workflow design for compliance and data management
+## Project Assets
+* Watch the Demo Video - https://www.loom.com/share/74a58a7687ee4f16857182266e9331b9
